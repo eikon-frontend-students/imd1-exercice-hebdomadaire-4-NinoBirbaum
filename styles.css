@@ -1,3 +1,28 @@
-body {
-  background: hotpink;
+div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 12px;
+  align-content: ;
+}
+header {
+  color: #de1515;
+  background-color: #ffe4e4;
+  display: inline-flex;
+  flex-direction: column;
+  padding: 10px 20px;
+  align-items: flex-start;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-size: larger;
+}
+.aww {
+  font-size: small;
+  display: flex;
+  align-content: ;
+  align-items: center;
+  margin-left: 42px;
+  margin-top: 0px;
 }
